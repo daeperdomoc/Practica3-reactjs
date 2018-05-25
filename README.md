@@ -1,3 +1,6 @@
+# EXPO 3
+
+Trabajo en clase realizado en workspace de cloud9 con descripcion: taller expo react
 
 ![alt text](http://drive.google.com/uc?export=view&id=1qXIjM6hMOz5mwcua_Yk0Cc8AxEFFHd5Z)
 
